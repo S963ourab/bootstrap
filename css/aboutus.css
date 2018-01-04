@@ -1,0 +1,15 @@
+.jumbotron{
+	background: #9575CD;
+}
+.footer{
+	background:#d1c4e9;
+}
+.row-content{
+	border-bottom: 1px ridge;
+}
+.row-body1{
+	min-height: 400px;
+}
+.row-body2{
+	min-height: 600px;
+}
